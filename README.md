@@ -1,6 +1,7 @@
 # 📸 TruthLens: Deepfake Detector 
 
 > **Don't believe everything you see.** TruthLens is a lightweight, AI-powered deepfake detection tool built to separate reality from synthetic media.
+> **Used Dataset:** [Deepfake Image Detection on Kaggle](https://www.kaggle.com/datasets/saurabhbagchi/deepfake-image-detection)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
