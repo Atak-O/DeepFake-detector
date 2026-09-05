@@ -17,3 +17,10 @@ Whether you are a researcher, a curious developer, or just someone who wants to 
 * **Google Colab Ready:** No heavy local GPU installation required; runs directly in the cloud.
 * **Interactive UI:** Uses Colab's native file uploader for a seamless testing experience.
 * **Confidence Metrics:** Doesn't just give a binary yes/no—it outputs a percentage score showing exactly *how sure* the AI is.
+
+## ✨ How Will The Code Work?
+
+* **  download the ipynb file
+* open the google colabs and select import file
+* import the project's ipynb file
+* then import the "converted_keras 2" file to google colabs notebook
